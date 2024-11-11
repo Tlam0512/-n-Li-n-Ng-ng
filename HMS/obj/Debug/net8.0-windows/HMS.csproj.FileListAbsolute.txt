@@ -1,0 +1,64 @@
+C:\Code\C#\HMS\HMS\bin\Debug\net8.0-windows\HMS.exe
+C:\Code\C#\HMS\HMS\bin\Debug\net8.0-windows\HMS.deps.json
+C:\Code\C#\HMS\HMS\bin\Debug\net8.0-windows\HMS.runtimeconfig.json
+C:\Code\C#\HMS\HMS\bin\Debug\net8.0-windows\HMS.dll
+C:\Code\C#\HMS\HMS\bin\Debug\net8.0-windows\HMS.pdb
+C:\Code\C#\HMS\HMS\bin\Debug\net8.0-windows\AMRConnector.dll
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.AssemblyReference.cache
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.FormLogIn.resources
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.Properties.Resources.resources
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.GenerateResource.cache
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfoInputs.cache
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfo.cs
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.CoreCompileInputs.cache
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.CopyComplete
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.dll
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\refint\HMS.dll
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.pdb
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.genruntimeconfig.cache
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\ref\HMS.dll
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.FormDashboard.resources
+C:\Code\C#\HMS\HMS\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Code\C#\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Code\C#\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Code\C#\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Code\C#\HMS\HMS\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\C#\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.User_Control.UserControlSetting.resources
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.User_Control.UserControlClient.resources
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.User_Control.UserControlRoom.resources
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.User_Control.UserControlReservation.resources
+C:\Code\C#\HMS\HMS\obj\Debug\net8.0-windows\HMS.User_Control.UserControlDashboard.resources
+D:\do an\HMS\HMS\bin\Debug\net8.0-windows\HMS.exe
+D:\do an\HMS\HMS\bin\Debug\net8.0-windows\HMS.deps.json
+D:\do an\HMS\HMS\bin\Debug\net8.0-windows\HMS.runtimeconfig.json
+D:\do an\HMS\HMS\bin\Debug\net8.0-windows\HMS.dll
+D:\do an\HMS\HMS\bin\Debug\net8.0-windows\HMS.pdb
+D:\do an\HMS\HMS\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\do an\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\do an\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\do an\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\do an\HMS\HMS\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\do an\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\do an\HMS\HMS\bin\Debug\net8.0-windows\AMRConnector.dll
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.AssemblyReference.cache
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.FormDashboard.resources
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.FormLogIn.resources
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.Properties.Resources.resources
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.User_Control.UserControlClient.resources
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.User_Control.UserControlDashboard.resources
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.User_Control.UserControlReservation.resources
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.User_Control.UserControlRoom.resources
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.User_Control.UserControlSetting.resources
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.GenerateResource.cache
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfoInputs.cache
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfo.cs
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.CoreCompileInputs.cache
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.Up2Date
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.dll
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\refint\HMS.dll
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.pdb
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\HMS.genruntimeconfig.cache
+D:\do an\HMS\HMS\obj\Debug\net8.0-windows\ref\HMS.dll
